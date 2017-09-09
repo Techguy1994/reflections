@@ -18,3 +18,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 With Dropbox or any other cloud or per mail. Harder would be organizing the stuff, but the overall view would be easier, but i think
 that is just now overwhelming all the new information for me
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When i have some experimental code approaches and at the same time i want to continue with my basic code.
