@@ -13,3 +13,8 @@ When i fork i make a copy of a repository from an other user on github on my git
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 I can work offline and others do not see unfinished code, or code which is ready yet.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+With Dropbox or any other cloud or per mail. Harder would be organizing the stuff, but the overall view would be easier, but i think
+that is just now overwhelming all the new information for me
